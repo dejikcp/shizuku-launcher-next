@@ -8,7 +8,7 @@ Now it is written in Next.js.
 
 ## 使用Vercel部署
 
-[点击此处](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FhiDandelion%2Fshizuku-launcher-next)前往Vercel并导入此项目。您无需更改默认的设置即可完成部署。
+[点击此处](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2Fdejikcp%2Fshizuku-launcher-next)前往Vercel并导入此项目。您无需更改默认的设置即可完成部署。
 
 ## 使用Netlify部署
 
